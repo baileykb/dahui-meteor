@@ -1,0 +1,27 @@
+#topmenu{
+  background-color:black;
+  margin-bottom: 0;
+}
+#text{
+  color:#888888;
+}
+#text1{
+  color:red;
+}
+#text2{
+  color:yellow;
+}
+#text3{
+  margin-left: 100px;
+  color:#888888;
+}
+#footermenu{
+  background-color:black;
+  margin-top:0px;
+  padding-left:2px;
+}
+#head{
+  color:white;
+  font-size: 36px;
+  font-family: 'Caesar Dressing';
+}
